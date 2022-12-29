@@ -27,7 +27,7 @@ CREATE TABLE users (
 ## build containers
 
 ```
-docker-comopse build
+docker-compose build
 ```
 
 ## start containers
